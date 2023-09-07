@@ -103,6 +103,7 @@ button:hover {
   padding-top: 2.9rem;
   padding-bottom: 3.2rem;
   z-index: 1;
+  margin-top: 4.5rem;
 }
 
 .activity-content:hover {
@@ -151,7 +152,7 @@ button:hover {
 
 .activity-card {
   position: relative;
-  height: 100%;
+  /* height: 100%; */
   display: flex;
   flex-direction: column-reverse;
   overflow: hidden;
