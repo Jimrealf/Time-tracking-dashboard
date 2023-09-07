@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import ellipsis from "./assets/icon-ellipsis.svg";
-import exercise from "./Assets/icon-exercise.svg";
-import play from "./Assets/icon-play.svg";
-import selfCare from "./Assets/icon-self-care.svg";
-import social from "./Assets/icon-social.svg";
-import study from "./Assets/icon-study.svg";
-import work from "./Assets/icon-work.svg";
+import exercise from "./assets/icon-exercise.svg";
+import play from "./assets/icon-play.svg";
+import selfCare from "./assets/icon-self-care.svg";
+import social from "./assets/icon-social.svg";
+import study from "./assets/icon-study.svg";
+import work from "./assets/icon-work.svg";
 
 export default function Activities({ data, selectedTimeframe }) {
   return (
