@@ -140,6 +140,7 @@ button:hover {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 3rem;
   align-items: end;
+  align-content: space-between;
 }
 
 .activity-top img {
